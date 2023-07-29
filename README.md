@@ -1,4 +1,4 @@
-# grocery_app
+# Grocery Delivery App - Flutter
 Welcome to the Grocery Delivery App, a user-friendly and efficient mobile application built with Flutter, Firebase, Provider, Geolocation, and Geocoder. This app aims to revolutionize the grocery shopping experience by providing users with the convenience of browsing and ordering from nearby grocery stores in real-time.
 
 ## Features
